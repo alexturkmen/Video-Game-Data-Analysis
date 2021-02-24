@@ -1,4 +1,3 @@
-# pandas_challenge
 # Notes
 1. All the instructions regarding the codes can be found within "Turkmen_HeroesOfPymoli.ipynb" file.
 2. Conclusions drawn based on the data can be found at the end of "Turkmen_HeroesOfPymoli.ipynb" file.
